@@ -1,1 +1,1 @@
-permalink:/research-archive-system/Faculty_Member/login.php
+permalink:/research-archive-system/Faculty_Member/login.html
